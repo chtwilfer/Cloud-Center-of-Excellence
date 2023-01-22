@@ -1,4 +1,4 @@
-A **Cloud Center of Excellence (CCoE)** is a team or organization within a company that is responsible for the strategic planning, management, and governance of the company's cloud computing initiatives. The CCoE's main responsibilities include:
+A Cloud Center of Excellence (CCoE) is a team or organization within a company that is responsible for the strategic planning, management, and governance of the company's cloud computing initiatives. The CCoE's main responsibilities include:
 
 - Defining and implementing the company's cloud strategy: The CCoE works with different departments and teams to understand their specific needs and develop a comprehensive cloud strategy that aligns with the company's overall business objectives.
 
@@ -11,6 +11,8 @@ A **Cloud Center of Excellence (CCoE)** is a team or organization within a compa
 - Overseeing cloud projects: The CCoE is responsible for overseeing cloud projects to ensure that they are completed on time, within budget, and in compliance with the company's cloud strategy.
 
 - Governance: The CCoE is responsible for creating and maintaining governance guidelines, policies and standards for cloud usage within the company.
+
+In summary, a Cloud Center of Excellence (CCoE) is a team or organization within a company that is responsible for leading, planning, and managing the company's cloud initiatives by providing guidance, expertise and oversight to ensure that the company's cloud strategy, architecture and projects are aligned, secure, compliant and efficient.
 
 
 ## Defining and implementing the company´s cloud strategy ##
